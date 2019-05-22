@@ -1,0 +1,23 @@
+Line 30 calls the function "christmastree". 
+Line 5,12,16 and 19 show the sentences that will be displayed furing the runtime.
+Line 6 and 17 get user input as a string.
+Line 7,9,18,21 and 25 are a condition to run the modul forward when "they are satesfied", otherwise "else"(line 11 and 20) will run.
+Line 13 calls the function recursively and line 14 terminates the current recursion step.
+Line 15 starts a loop, that terminates(line 27) once a correct input for the hight is given.
+Line 18 checks if hight is not a non negative number in which case the loop doesn't terminate.
+Line 21-26 draws the christmas tree.
+Line 28 exits the programme. 
+
+What is christmas tree?  
+Chrismas tree is a tool, that allows you to make your own customised christmas tree.
+How to use christmas tree: 
+1. Open the application
+2. It will ask you if you want a star on your christmas tree. Type "yes" to get a star and "no" otherwise and then press enter.
+3. It will ask you how high the christmas tree should be. Type how high you want your tree to be and then press enter.
+4. The programme will display your tree.
+5. Press enter to close the programme.  
+
+
+ 
+
+ 

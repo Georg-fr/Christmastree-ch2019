@@ -1,0 +1,6 @@
+I started by thinking about how I can solve the task and which language I will use.
+Than I wrote down the information to develop a formula for the christmas tree.
+After that I started programming.
+In the meanwhile I looked up some of my old programmes for reference.
+After the main structer for the christmas tree was finished I deleted redundant lines 
+and overall cleaned the code up.  
